@@ -151,3 +151,6 @@ dmypy.json
 
 # macOS
 .DS_Store
+
+# local files
+./llm-rnd/models
