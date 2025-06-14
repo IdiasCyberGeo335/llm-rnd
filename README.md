@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<img width="100%" src="https://github.com/ProjectsCyberGeo335/llm-rnd/assets/rep-img.png" alt="CyberGeo335 banner">
+<img width="100%" src="https://github.com/ProjectsCyberGeo335/llm-rnd/blob/main/assets/rep-img.png" alt="CyberGeo335 banner">
 # llm-rnd
 LLM Framework Research
 # RU
